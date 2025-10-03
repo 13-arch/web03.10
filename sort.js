@@ -5,5 +5,5 @@ console.log(allColum)
 console.log(allRows)
 let name = []
 for(let i =0; i<allRows; i++){
-    
+    document.querySelectorAll('.item')
 }
