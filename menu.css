@@ -1,0 +1,12 @@
+.dropdown-content{
+    display: none;
+}
+.display-block{
+    display: block;
+}
+.button1{
+    background-color: green;
+}
+.button2{
+    background-color: red;
+}
